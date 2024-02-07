@@ -1,0 +1,6 @@
+{
+    "versionCode": 540,
+    "versionName": "v2.4",
+    "changelog": ["iptv-org as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
+    "downloadUrl": "https://github.com/futbolparaguayotv/update/releases/download/v1.0/com.futbol.play_v4.0_b541.apk"
+}
