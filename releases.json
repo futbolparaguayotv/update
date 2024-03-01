@@ -2,5 +2,5 @@
     "versionCode": 540,
     "versionName": "v2.0",
     "changelog": ["iptv-org as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
-    "downloadUrl": "https://github.com/futbolparaguayotv/update/releases/download/v2.0/com.futplay.tv_v1.0.apk"
+    "downloadUrl": ""
 }
